@@ -14,8 +14,4 @@ The ceremony of innocence is drowned;
 
 Another test line!
 
-<<<<<<< HEAD
-More local changes
-=======
 End of poem
->>>>>>> 86bdaec14b52cf1219339428be5a25d4641d5d9b
