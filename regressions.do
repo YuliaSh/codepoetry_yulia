@@ -1,3 +1,3 @@
 clear all
 sysuse auto.dta
-reg price mpg
+reg price mpg, robust
